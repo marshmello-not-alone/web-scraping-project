@@ -1,0 +1,11 @@
+{
+  "name": "webScrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jqiallnatural/web-scraping-project.git",
+  "author": "Jiaqi Zhao <jiaqi.zhao.tr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
